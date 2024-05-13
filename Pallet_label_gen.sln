@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pallet_label_gen", "Pallet_label_gen.csproj", "{4588BDCA-7C78-476C-99BB-538B7ABA1DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4588BDCA-7C78-476C-99BB-538B7ABA1DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4588BDCA-7C78-476C-99BB-538B7ABA1DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4588BDCA-7C78-476C-99BB-538B7ABA1DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4588BDCA-7C78-476C-99BB-538B7ABA1DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98F901A-6ACF-4DA1-B9F1-76CC44972FE5}
+	EndGlobalSection
+EndGlobal
